@@ -1,2 +1,3 @@
 # priyag
-this is my github respositor
+this is my github Respositor
+author priyag bhalala
