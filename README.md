@@ -1,2 +1,2 @@
 # priyag
-this is my github
+this is my github respository
